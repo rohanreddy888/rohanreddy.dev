@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Meetupswala",
+    "desc": "Meetupswala - Web3 events",
+    "image": "/projects/meetupswala.png",
+    "link": "https://www.meetupswala.xyz/"
+  },
+  {
+    "name": "Metamorphosis",
+    "desc": "Metamorphosis - Event Website",
+    "image": "/projects/metamorphosis.png",
+    "link": "http://metamorphosis.octaloop.com/"
+  },
+  {
+    "name": "Smartlabs",
+    "desc": "Home diagnostics service",
+    "image": "/projects/smartlabs.png",
+    "link": "https://smartlabs-frontend.vercel.app/"
+  },
+  {
+    "name": "Smartlabs Dashboard",
+    "desc": "Home diagnostics service",
+    "image": "/projects/smartlabs-dashboard.png",
+    "link": "https://dashboard.thesmartlabs.com/"
+  },
+  {
+    "name": "Mushrooms Goa",
+    "desc": "Premium Hostel",
+    "image": "/projects/mushrooms.png",
+    "link": "https://mushroomsgoa.com/"
+  }
+]

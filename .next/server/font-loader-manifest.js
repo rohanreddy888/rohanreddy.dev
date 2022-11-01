@@ -1,0 +1,1 @@
+self.__FONT_LOADER_MANIFEST={pages:{},app:{'/Users/rohanreddy/Downloads/Projects/Smartlabs/new-frontend/node_modules/@next/font/google/target.css?{"path":"app/layout.js","import":"Inter","arguments":[{"subsets":["latin"]}]}':["static/media/2aaf0723e720e8b9.p.woff2"]}};
