@@ -28,10 +28,10 @@ export default function Home() {
           </div>
         </div>
       </div>
-      <div id="about">
+      <div className="min-h-screen" id="about">
         <About />
       </div>
-      <div id="projects">
+      <div className="min-h-screen" id="projects">
         <Project />
       </div>
       <div id="contact">

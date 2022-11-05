@@ -21,6 +21,14 @@ export default function About() {
               <li>Quick learner</li>
               <li>Team player</li>
             </ul>
+            <h1 className="font-black text-6xl lg:text-3xl mt-12">
+              Tech Stack{" "}
+            </h1>
+            <ul className="flex flex-col space-y-2 mt-4 lg:mt-2 list-disc text-4xl lg:text-xl ml-[2rem] lg:ml-[1rem]">
+              <li>NextJS</li>
+              <li>ReactJS</li>
+              <li>TailwindCSS</li>
+            </ul>
           </div>
         </div>
       </div>
