@@ -70,7 +70,7 @@ export default function Contact() {
       <div className="py-10">
         <div className="flex flex-col justify-center items-center space-y-2">
           <div>
-            <p className="text-xl lg:text-base font-normal text-black">
+            <p className="text-4xl lg:text-base font-normal text-black">
               © All Rights Reserved, 2022
             </p>
           </div>
