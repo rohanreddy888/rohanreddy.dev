@@ -10,7 +10,8 @@ export default function About() {
               I'm a Frontend Developer with 7+ years of experience. Passionate
               about Designing & Web3 technology. Built 50+ websites and worked
               with various companies and teams both domestic and intenationally
-              to build their technology and user experience.
+              to build their technology and user experience. Open source
+              contributor.
             </p>
             <h1 className="font-black text-6xl lg:text-3xl mt-12">
               Strong Suits 💪{" "}
