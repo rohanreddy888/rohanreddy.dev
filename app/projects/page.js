@@ -1,5 +1,5 @@
 import Image from "next/image";
-import Projects from "/app/data/projects.json";
+import Projects from "../data/projects.json";
 export default function Project() {
   return (
     <>

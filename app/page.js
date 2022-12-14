@@ -11,7 +11,7 @@ export default function Home() {
             <h1 className="flex flex-col text-7xl font-bolder">
               Hola 👋{" "}
               <span className="text-8xl font-black mt-4">I'm Rohan Reddy</span>{" "}
-              <span className="text-3xl font-extralight mt-2">
+              <span className="md:text-5xl lg:text-3xl font-extralight mt-2">
                 UI/UX Engineer & Web3 Entrepreneur
               </span>
             </h1>

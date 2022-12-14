@@ -7,11 +7,16 @@ export default function About() {
           <div className="flex flex-col">
             <h1 className="font-black text-6xl lg:text-4xl">About Me</h1>
             <p className="text-4xl lg:text-2xl mt-4 lg:mt-2">
-              I'm a Frontend Developer with 7+ years of experience. Passionate
-              about Designing & Web3 technology. Built 50+ websites and worked
-              with various companies and teams both domestic and intenationally
-              to build their technology and user experience. Open source
-              contributor.
+              As a frontend developer and UI/UX designer, I have a passion for
+              creating intuitive and engaging user experiences. With 7+ years of
+              experience in the industry, I have built over 50 websites for
+              various companies and teams, both domestic and international. My
+              skills include HTML, CSS, JavaScript, and web3 technology, as well
+              as a strong eye for design and an understanding of user behavior.
+              In addition to my professional experience, I am also an active
+              contributor to the open source community. I am constantly learning
+              and staying up-to-date with the latest industry trends and
+              technologies.
             </p>
             <h1 className="font-black text-6xl lg:text-3xl mt-12">
               Strong Suits 💪{" "}
