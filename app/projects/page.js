@@ -7,7 +7,7 @@ export default function Project() {
         <div className="flex flex-col justify-start items-start w-full">
           <h1 className="font-black text-6xl lg:text-4xl">Recent Projects</h1>
 
-          <div class="grid grid-cols-1 lg:grid-cols-2 gap-4 w-full">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-4 w-full">
             {Projects.map((project, index) => {
               return (
                 <a
