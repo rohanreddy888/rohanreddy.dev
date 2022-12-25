@@ -35,17 +35,15 @@ export default function Navbar() {
       <nav
         className={
           navbar
-            ? "absolute flex flex-row justify-between items-center py-12 lg:py-6 w-full px-12 nav-scroll-active"
-            : "absolute flex flex-row justify-between items-center py-12 lg:py-6 w-full px-12"
+            ? "absolute flex flex-row justify-between items-center py-4 md:py-6 w-full px-6 md:px-12 nav-scroll-active"
+            : "absolute flex flex-row justify-between items-center py-4 md:py-6 w-full px-6 md:px-12"
         }>
         <div>
           <Link href="/">
-            <h1 className="font-black text-6xl lg:text-2xl uppercase">
-              Rohan Reddy{" "}
-            </h1>
+            <h1 className="font-black text-2xl uppercase">Rohan Reddy </h1>
           </Link>
         </div>
-        <ul className="hidden lg:flex flex-row justify-center items-center space-x-12 uppercase font-bold text-lg">
+        <ul className="hidden md:flex flex-row justify-center items-center space-x-12 uppercase font-bold text-lg">
           <li>
             <a href="#about">About</a>
           </li>

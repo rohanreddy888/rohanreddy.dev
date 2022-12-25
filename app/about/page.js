@@ -5,8 +5,8 @@ export default function About() {
       <div className="flex justify-start items-center w-full py-20">
         <div className="flex flex-row justify-between items-center">
           <div className="flex flex-col">
-            <h1 className="font-black text-6xl lg:text-4xl">About Me</h1>
-            <p className="text-4xl lg:text-2xl mt-4 lg:mt-2">
+            <h1 className="font-black text-4xl">About Me</h1>
+            <p className="text-xl mt-4">
               As a frontend developer and UI/UX designer, I have a passion for
               creating intuitive and engaging user experiences. With 7+ years of
               experience in the industry, I have built over 50 websites for
@@ -18,19 +18,15 @@ export default function About() {
               and staying up-to-date with the latest industry trends and
               technologies.
             </p>
-            <h1 className="font-black text-6xl lg:text-3xl mt-12">
-              Strong Suits 💪{" "}
-            </h1>
-            <ul className="flex flex-col space-y-2 mt-4 lg:mt-2 list-disc text-4xl lg:text-xl ml-[2rem] lg:ml-[1rem]">
+            <h1 className="font-black text-4xl mt-12">Strong Suits 💪 </h1>
+            <ul className="flex flex-col space-y-2 mt-4 md:mt-2 list-disc text-xl ml-[2rem] md:ml-[1rem]">
               <li>Leadership</li>
               <li>Self-driven</li>
               <li>Quick learner</li>
               <li>Team player</li>
             </ul>
-            <h1 className="font-black text-6xl lg:text-3xl mt-12">
-              Tech Stack{" "}
-            </h1>
-            <ul className="flex flex-col space-y-2 mt-4 lg:mt-2 list-disc text-4xl lg:text-xl ml-[2rem] lg:ml-[1rem]">
+            <h1 className="font-black text-4xl mt-12">Tech Stack </h1>
+            <ul className="flex flex-col space-y-2 mt-4 md:mt-2 list-disc text-xl ml-[2rem] md:ml-[1rem]">
               <li>NextJS</li>
               <li>ReactJS</li>
               <li>TailwindCSS</li>
