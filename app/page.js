@@ -7,13 +7,13 @@ export default function Home() {
     <>
       <div className="min-h-screen">
         <div className="flex justify-start items-center h-screen">
-          <div className="flex flex-col-reverse md:flex-row justify-between items-start md:items-center w-full">
-            <h1 className="flex flex-col text-4xl font-bolder">
+          <div className="flex flex-col-reverse md:flex-row justify-between items-start md:items-center w-full gap-4">
+            <h1 className="flex flex-col text-3xl font-bolder">
               Hola 👋{" "}
-              <span className="text-3xl md:text-7xl font-black mt-4">
+              <span className="text-4xl md:text-7xl font-black mt-3">
                 I'm Rohan Reddy
               </span>{" "}
-              <span className="text-xl md:text-3xl font-extralight mt-2">
+              <span className="text-xl md:text-3xl font-extralight mt-1">
                 UI/UX Engineer & Web3 Entrepreneur
               </span>
             </h1>
