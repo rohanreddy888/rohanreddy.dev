@@ -3,7 +3,7 @@ import Projects from "../data/projects.json";
 export default function Project() {
   return (
     <>
-      <div className="flex flex-col md:flex-row justify-start items-start md:items-center w-full py-20">
+      <div className="flex flex-col md:flex-row justify-start items-start md:items-center w-full py-24">
         <div className="flex flex-col justify-start items-start w-full">
           <h1 className="font-black text-4xl">Recent Projects</h1>
 

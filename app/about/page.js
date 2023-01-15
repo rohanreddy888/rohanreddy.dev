@@ -2,7 +2,7 @@ import Image from "next/image";
 export default function About() {
   return (
     <>
-      <div className="flex justify-start items-center w-full py-20">
+      <div className="flex justify-start items-center w-full py-24">
         <div className="flex flex-row justify-between items-center">
           <div className="flex flex-col">
             <h1 className="font-black text-4xl">About Me</h1>
