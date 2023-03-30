@@ -12,6 +12,12 @@
     "link": "https://www.meetupswala.xyz/"
   },
   {
+    "name": "Hyderabad DAO",
+    "desc": "Largest Web3 Community in Hyderabad",
+    "image": "/projects/hyderabaddao.png",
+    "link": "https://hyderabaddao.com/"
+  },
+  {
     "name": "Metamorphosis",
     "desc": "Metamorphosis - Event Website",
     "image": "/projects/metamorphosis.png",
@@ -28,12 +34,6 @@
     "desc": "Home diagnostics service",
     "image": "/projects/smartlabs-dashboard.png",
     "link": "https://dashboard.thesmartlabs.com/"
-  },
-  {
-    "name": "Hyderabad DAO",
-    "desc": "Largest Web3 Community in Hyderabad",
-    "image": "/projects/hyderabaddao.png",
-    "link": "https://hyderabaddao.com/"
   },
   {
     "name": "Mushrooms Goa",
