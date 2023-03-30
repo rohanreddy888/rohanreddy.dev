@@ -1,5 +1,11 @@
 [
   {
+    "name": "QuillAudits",
+    "desc": "QuillAudits - Smart contract auditing",
+    "image": "/projects/quillaudits.png",
+    "link": "https://www.quillaudits.com/"
+  },
+  {
     "name": "Meetupswala",
     "desc": "Meetupswala - Web3 events",
     "image": "/projects/meetupswala.png",
