@@ -18,12 +18,13 @@ export default function Project() {
                   key={index}
                   className="bg-white rounded-lg shadow-lg "
                 >
-                  <img
+                  <Image
                     className="w-full rounded-lg"
                     src={project.image}
-                    height="600"
                     alt={project.name}
+                    height="600"
                     width="200"
+                    priority
                   />
                   <div className="p-4 md:px-3 md:py-6">
                     <h3 className="text-xl font-bold">{project.name}</h3>
