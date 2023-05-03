@@ -1,5 +1,11 @@
 [
   {
+    "name": "House of Fashion",
+    "desc": "House of Fashion - NFT Collection",
+    "image": "/projects/house-of-fashion.png",
+    "link": "https://house-of-fashion.vercel.app/mint"
+  },
+  {
     "name": "QuillAudits",
     "desc": "QuillAudits - Smart contract auditing",
     "image": "/projects/quillaudits.png",
