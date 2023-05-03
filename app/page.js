@@ -39,6 +39,9 @@ export const metadata = {
   robots: {
     index: true,
   },
+  icons: {
+    icon: "/favicon.png",
+  },
 };
 
 export default function Home() {

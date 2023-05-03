@@ -11,7 +11,7 @@ export default function Project() {
           <div className="grid w-full grid-cols-1 gap-8 md:grid-cols-2">
             {Projects.map((project, index) => {
               return (
-                <a
+                <Link
                   href={project.link}
                   target="_blank"
                   rel="noreferrer"
@@ -29,11 +29,11 @@ export default function Project() {
                     <h3 className="text-xl font-bold">{project.name}</h3>
                     <p className="text-base">{project.desc}</p>
                   </div>
-                </a>
+                </Link>
               );
             })}
           </div>
-          <a className="flex items-center justify-center w-full h-full py-24 bg-white rounded-lg shadow-lg">
+          <div className="flex items-center justify-center w-full h-full py-24 mt-4 bg-white rounded-lg shadow-lg">
             <Link
               href="https://github.com/rohanreddy888"
               target="_blank"
@@ -50,7 +50,7 @@ export default function Project() {
                 priority
               />
             </Link>
-          </a>
+          </div>
         </div>
       </div>
     </>

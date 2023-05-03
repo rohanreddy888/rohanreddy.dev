@@ -19,14 +19,14 @@ export default function About() {
               technologies.
             </p>
             <h2 className="mt-12 text-4xl font-black">Strong Suits 💪 </h2>
-            <ul className="flex flex-col space-y-2 mt-4 md:mt-2 list-disc text-xl ml-[2rem] md:ml-[1rem]">
+            <ul className="flex flex-col mt-4 space-y-2 text-xl list-disc list-inside md:mt-2">
               <li>Leadership</li>
               <li>Self-driven</li>
               <li>Quick learner</li>
               <li>Team player</li>
             </ul>
             <h2 className="mt-12 text-4xl font-black">Tech Stack </h2>
-            <ul className="flex flex-col space-y-2 mt-4 md:mt-2 list-disc text-xl ml-[2rem] md:ml-[1rem]">
+            <ul className="flex flex-col mt-4 space-y-2 text-xl list-disc list-inside md:mt-2">
               <li>NextJS</li>
               <li>ReactJS</li>
               <li>TailwindCSS</li>
