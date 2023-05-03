@@ -21,20 +21,21 @@ export default function Navbar() {
   });
   return (
     <>
-      <div className="hidden md:block md:fixed w-full">
+      <div className="hidden w-full md:block md:fixed">
         <div
           className={
             navbar
               ? "mx-6 md:mx-12 mt-4  text-white rounded-full nav-scroll-active shadow-2xl"
               : "mx-6 md:mx-12 mt-4  text-white rounded-full "
-          }>
-          <div className="flex flex-row justify-between items-center py-5 px-8">
+          }
+        >
+          <div className="flex flex-row items-center justify-between px-8 py-5">
             <a href="#home">
-              <h1 className="font-black text-black text-2xl uppercase">
+              <h2 className="text-2xl font-black text-black uppercase">
                 Rohan Reddy
-              </h1>
+              </h2>
             </a>
-            <ul className="hidden md:flex flex-row justify-center items-center space-x-12 uppercase font-semibold text-lg text-black">
+            <ul className="flex-row items-center justify-center hidden space-x-12 text-lg font-semibold text-black uppercase md:flex">
               <li>
                 <a href="#about">About</a>
               </li>

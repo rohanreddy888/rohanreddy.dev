@@ -3,16 +3,16 @@ import Link from "next/link";
 
 export default function Hero() {
   return (
-    <div className="flex items-center justify-start h-screen">
+    <div className="flex items-center justify-start min-h-[80vh]">
       <div className="flex flex-col-reverse items-start justify-between w-full gap-4 md:flex-row md:items-center">
         <div className="flex flex-col gap-2">
-          <h1 className="flex flex-col text-3xl font-bolder">Hola 👋 </h1>
-          <h2 className="mt-3 text-4xl font-black md:text-7xl">
+          <h2 className="flex flex-col text-3xl font-bolder">Hola 👋 </h2>
+          <h3 className="mt-3 text-4xl font-black md:text-7xl">
             I'm Rohan Reddy
-          </h2>{" "}
-          <h3 className="mt-1 text-xl md:text-3xl font-extralight">
+          </h3>{" "}
+          <h1 className="mt-1 text-xl md:text-3xl font-extralight">
             UI/UX Engineer & Web3 Entrepreneur
-          </h3>
+          </h1>
           <div className="flex flex-row items-center justify-start w-full mt-4 space-x-12">
             <div className="flex">
               <Link
