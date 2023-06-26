@@ -1,5 +1,11 @@
 [
   {
+    "name": "QuillCheck",
+    "desc": "QuillCheck - Free Rug Pull Detector",
+    "image": "/projects/quillcheck.png",
+    "link": "https://quillcheck.quillaudits.com/"
+  },
+  {
     "name": "House of Fashion",
     "desc": "House of Fashion - NFT Collection",
     "image": "/projects/house-of-fashion.png",
