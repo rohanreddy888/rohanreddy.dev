@@ -1,4 +1,5 @@
 import Image from "next/image";
+import { Tweet } from "react-tweet";
 export default function About() {
   return (
     <>
@@ -18,6 +19,10 @@ export default function About() {
               and staying up-to-date with the latest industry trends and
               technologies.
             </p>
+
+            <div data-theme="dark">
+              <Tweet className="w-full" id="1600055052483194881" />
+            </div>
             <h2 className="mt-12 text-4xl font-black">Strong Suits 💪 </h2>
             <ul className="flex flex-col mt-4 space-y-2 text-xl list-disc list-inside md:mt-2">
               <li>Leadership</li>
