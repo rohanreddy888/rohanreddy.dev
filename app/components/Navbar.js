@@ -21,7 +21,7 @@ export default function Navbar() {
   });
   return (
     <>
-      <div className="hidden w-full md:block md:fixed">
+      <div className="z-50 hidden w-full md:block md:fixed">
         <div
           className={
             navbar
