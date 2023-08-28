@@ -16,6 +16,22 @@ export default function Hero() {
           <div className="flex flex-row items-center justify-start w-full mt-4 space-x-12">
             <div className="flex">
               <Link
+                href="https://github.com/rohanreddy888"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <Image
+                  className="text-black"
+                  src={"/icons/Github.png"}
+                  width="40"
+                  height="40"
+                  alt="Telegram Icon"
+                  priority
+                />
+              </Link>
+            </div>
+            <div className="flex">
+              <Link
                 href="https://twitter.com/rohanreddy888"
                 target="_blank"
                 rel="noreferrer"
