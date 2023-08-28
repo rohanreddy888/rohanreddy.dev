@@ -22,7 +22,7 @@ export default function About() {
             </p>
 
             <div>
-              <Tweet id="1600055052483194881" />
+              <Tweet id="1696152387113939409" />
             </div>
             <h2 className="mt-12 text-4xl font-black">Strong Suits 💪 </h2>
             <ul className="flex flex-col mt-4 space-y-2 text-xl list-disc list-inside md:mt-2">
@@ -31,11 +31,16 @@ export default function About() {
               <li>Quick learner</li>
               <li>Team player</li>
             </ul>
-            <h2 className="mt-12 text-4xl font-black">Tech Stack </h2>
+            <h2 className="mt-12 text-4xl font-black">Tech Stack 💻</h2>
             <ul className="flex flex-col mt-4 space-y-2 text-xl list-disc list-inside md:mt-2">
               <li>NextJS</li>
               <li>ReactJS</li>
               <li>TailwindCSS</li>
+            </ul>
+            <h2 className="mt-12 text-4xl font-black">Achievement 🏆</h2>
+            <ul className="flex flex-col mt-4 space-y-2 text-xl list-disc list-inside md:mt-2">
+              <li>ETHIndia 22 - Winner LiFi Track 🥉</li>
+              <li>NEO APAC Hackathon Bangalore Edition 23 - Winner 🥇</li>
             </ul>
           </div>
         </div>
