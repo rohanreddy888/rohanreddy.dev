@@ -28,7 +28,7 @@
     ".next/types/**/*.ts",
     "**/*.ts",
     "**/*.tsx"
-  ],
+, "app/api/tweet/[tweet].js"  ],
   "exclude": [
     "node_modules"
   ]
