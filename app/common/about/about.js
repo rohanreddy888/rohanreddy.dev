@@ -22,7 +22,7 @@ export default function About() {
             </p>
 
             <div>
-              <Tweet id="1696152387113939409" />
+              <Tweet apiUrl={"/api/tweet/1696152387113939409"} />
             </div>
             <h2 className="mt-12 text-4xl font-black">Strong Suits 💪 </h2>
             <ul className="flex flex-col mt-4 space-y-2 text-xl list-disc list-inside md:mt-2">
