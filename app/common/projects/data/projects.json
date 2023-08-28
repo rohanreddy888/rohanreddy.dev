@@ -1,5 +1,11 @@
 [
   {
+    "name": "NeoPay",
+    "desc": "NeoPay - Scan QR and Pay with any token",
+    "image": "/projects/neopay.png",
+    "link": "https://neopay-interface.vercel.app/"
+  },
+  {
     "name": "QuillCheck",
     "desc": "QuillCheck - Free Rug Pull Detector",
     "image": "/projects/quillcheck.png",
