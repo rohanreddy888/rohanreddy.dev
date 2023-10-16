@@ -21,14 +21,16 @@
       {
         "name": "next"
       }
-    ]
+    ],
+    "strictNullChecks": true
   },
   "include": [
     "next-env.d.ts",
     ".next/types/**/*.ts",
     "**/*.ts",
-    "**/*.tsx"
-, "app/api/tweet/[tweet].js"  ],
+    "**/*.tsx",
+    "app/api/tweet/[tweet].js"
+  ],
   "exclude": [
     "node_modules"
   ]

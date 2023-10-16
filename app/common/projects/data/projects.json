@@ -1,5 +1,11 @@
 [
   {
+    "name": "Web3United",
+    "desc": "Web3United - India's Premeir Offline Web3 Job Fair",
+    "image": "/projects/web3united.png",
+    "link": "https://web3united.telangana.gov.in/"
+  },
+  {
     "name": "NeoPay",
     "desc": "NeoPay - Scan QR and Pay with any token",
     "image": "/projects/neopay.png",
