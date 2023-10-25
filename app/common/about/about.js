@@ -1,10 +1,12 @@
 import Image from "next/image";
+import GitHubCalendar from "react-github-calendar";
 import { Tweet } from "react-tweet";
+import Github from "./../../components/Github";
 
 export default function About() {
   return (
     <>
-      <div className="flex items-center justify-start w-full">
+      <div className="flex flex-col items-center justify-start w-full gap-8">
         <div className="flex flex-row items-center justify-between">
           <div className="flex flex-col">
             <h2 className="text-4xl font-black">About Me</h2>
@@ -21,7 +23,7 @@ export default function About() {
               technologies.
             </p>
 
-            <div>
+            <div className="hidden md:block">
               <Tweet id="1696152387113939409" />
             </div>
             <h2 className="mt-12 text-4xl font-black">Strong Suits 💪 </h2>
@@ -42,6 +44,8 @@ export default function About() {
               <li>ETHIndia 22 - Winner LiFi Track 🥉</li>
               <li>NEO APAC Hackathon Bangalore Edition 23 - Winner 🥇</li>
             </ul>
+
+            <Github />
           </div>
         </div>
       </div>
