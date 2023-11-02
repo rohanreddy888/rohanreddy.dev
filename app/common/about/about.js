@@ -1,4 +1,4 @@
-import Image from "next/image";
+import Image from "next/legacy/image";
 import GitHubCalendar from "react-github-calendar";
 import { Tweet } from "react-tweet";
 import Github from "./../../components/Github";
