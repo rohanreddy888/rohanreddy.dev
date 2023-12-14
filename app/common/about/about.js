@@ -39,10 +39,11 @@ export default function About() {
               <li>ReactJS</li>
               <li>TailwindCSS</li>
             </ul>
-            <h2 className="mt-12 text-4xl font-black">Achievement 🏆</h2>
+            <h2 className="mt-12 text-4xl font-black">Achievements 🏆</h2>
             <ul className="flex flex-col mt-4 space-y-2 text-xl list-disc list-inside md:mt-2">
-              <li>ETHIndia 22 - Winner LiFi Track 🥉</li>
+              <li>ETHIndia'22 - LiFi Track 🥉</li>
               <li>NEO APAC Hackathon Bangalore Edition 23 - Winner 🥇</li>
+              <li>ETHIndia'23 - Polygon DeFI & The Graph Track 🥈</li>
             </ul>
 
             <Github />

@@ -1,5 +1,23 @@
 [
   {
+    "name": "TokenKrafters",
+    "desc": "TokenKrafters - Your Gateway to Seamless Token Swaps and Diversified Portfolios",
+    "image": "/projects/tokenkrafters.png",
+    "link": "https://tokenkrafters-interface.vercel.app/"
+  },
+  {
+    "name": "QuillAI",
+    "desc": "Web3United - Cutting-edge tool for automated smart contract auditing ensures unparalleled security.",
+    "image": "/projects/quillai.png",
+    "link": "https://quillai.quillaudits.com/"
+  },
+  {
+    "name": "QuillCheckV3",
+    "desc": "QuillCheckV3 - Free tool to identify possible rug pulls hidden in the smart contract, honeypots and important information",
+    "image": "/projects/quillcheckv3.png",
+    "link": "https://quillcheck.quillaudits.com/"
+  },
+  {
     "name": "Web3United",
     "desc": "Web3United - India's Premeir Offline Web3 Job Fair",
     "image": "/projects/web3united.png",
@@ -12,9 +30,9 @@
     "link": "https://neopay-interface.vercel.app/"
   },
   {
-    "name": "QuillCheck",
-    "desc": "QuillCheck - Free Rug Pull Detector",
-    "image": "/projects/quillcheck.png",
+    "name": "QuillCheckV2",
+    "desc": "QuillCheckV2 - Free Rug Pull Detector",
+    "image": "/projects/quillcheckv2.png",
     "link": "https://quillcheck.quillaudits.com/"
   },
   {
