@@ -1,5 +1,11 @@
 [
   {
+    "name": "QuillAudits - ERP Dashboard",
+    "desc": "QuillAudits - ERP Dashboard to manage and automate operations",
+    "image": "/projects/quillaudits-erp.png",
+    "link": "https://quillai.quillaudits.com/"
+  },
+  {
     "name": "TokenKrafters",
     "desc": "TokenKrafters - Your Gateway to Seamless Token Swaps and Diversified Portfolios",
     "image": "/projects/tokenkrafters.png",
@@ -7,7 +13,7 @@
   },
   {
     "name": "QuillAI",
-    "desc": "Web3United - Cutting-edge tool for automated smart contract auditing ensures unparalleled security.",
+    "desc": "Quill AI - QuillAudits cutting edge tool for automated smart contract auditing ensures unparalleled security.",
     "image": "/projects/quillai.png",
     "link": "https://quillai.quillaudits.com/"
   },
