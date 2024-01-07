@@ -7,19 +7,19 @@
   },
   {
     "name": "TokenKrafters",
-    "desc": "TokenKrafters - Your Gateway to Seamless Token Swaps and Diversified Portfolios",
+    "desc": "Your Gateway to Seamless Token Swaps and Diversified Portfolios",
     "image": "/projects/tokenkrafters.png",
-    "link": "https://tokenkrafters-interface.vercel.app/"
+    "link": "https://tokenkrafters.com/"
   },
   {
     "name": "QuillAI",
-    "desc": "Quill AI - QuillAudits cutting edge tool for automated smart contract auditing ensures unparalleled security.",
+    "desc": "QuillAudits cutting edge tool for automated smart contract auditing ensures unparalleled security.",
     "image": "/projects/quillai.png",
     "link": "https://quillai.quillaudits.com/"
   },
   {
     "name": "QuillCheckV3",
-    "desc": "QuillCheckV3 - Free tool to identify possible rug pulls hidden in the smart contract, honeypots and important information",
+    "desc": "Free tool to identify possible rug pulls hidden in the smart contract, honeypots and important information",
     "image": "/projects/quillcheckv3.png",
     "link": "https://quillcheck.quillaudits.com/"
   },
@@ -31,13 +31,13 @@
   },
   {
     "name": "NeoPay",
-    "desc": "NeoPay - Scan QR and Pay with any token",
+    "desc": "Scan QR and Pay with any token",
     "image": "/projects/neopay.png",
     "link": "https://neopay-interface.vercel.app/"
   },
   {
     "name": "QuillCheckV2",
-    "desc": "QuillCheckV2 - Free Rug Pull Detector",
+    "desc": "Free Rug Pull Detector",
     "image": "/projects/quillcheckv2.png",
     "link": "https://quillcheck.quillaudits.com/"
   },

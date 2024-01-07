@@ -20,7 +20,7 @@ export default function Project() {
                 >
                   <div>
                     <img
-                      className="w-full h-48 rounded-lg md:h-96"
+                      className="w-full h-48 rounded-lg md:h-80"
                       src={project.image}
                       alt={project.name}
                       height="600"
@@ -34,26 +34,26 @@ export default function Project() {
                 </Link>
               );
             })}
-          </div>
-          <div className="flex items-center justify-center w-full h-full py-24 bg-white rounded-lg shadow-lg">
-            <Link
-              href="https://github.com/rohanreddy888"
-              target="_blank"
-              rel="noreferrer"
-              className="flex flex-col items-center justify-center gap-4 text-lg font-semibold"
-            >
-              <h3 className="text-2xl">
-                Check out GitHub <br /> for more projects
-              </h3>
-              <Image
-                className="text-black"
-                src={"/icons/Github.png"}
-                width="40"
-                height="40"
-                alt="Github Icon"
-                priority
-              />
-            </Link>
+            <div className="flex items-center justify-center w-full h-full py-24 bg-white rounded-lg shadow-lg">
+              <Link
+                href="https://github.com/rohanreddy888"
+                target="_blank"
+                rel="noreferrer"
+                className="flex flex-col items-center justify-center gap-4 text-lg font-semibold"
+              >
+                <h3 className="text-2xl">
+                  Check out GitHub <br /> for more projects
+                </h3>
+                <Image
+                  className="text-black"
+                  src={"/icons/Github.png"}
+                  width="40"
+                  height="40"
+                  alt="Github Icon"
+                  priority
+                />
+              </Link>
+            </div>
           </div>
         </div>
       </div>

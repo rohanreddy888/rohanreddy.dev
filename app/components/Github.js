@@ -6,11 +6,13 @@ export default function Github() {
     <div>
       <h2 className="mt-12 text-4xl font-black">GitHub 🛠️</h2>
       <div className="flex flex-col mt-4 space-y-2 text-xl list-disc list-inside md:mt-2">
-        <div className="flex flex-wrap items-start justify-start w-full">
+        <div className="flex flex-wrap items-start justify-start w-full p-4 text-white bg-black rounded-md">
           <GitHubCalendar
             username="rohanreddy888"
             colorScheme="dark"
-            blockSize={14}
+            blockSize={24}
+            blockRadius={50}
+            blockMargin={8}
           />
         </div>
       </div>
