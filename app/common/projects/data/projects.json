@@ -1,5 +1,11 @@
 [
   {
+    "name": "QuillShield - AI Smart Contract Audit",
+    "desc": "Enhance your Ethereum operations with our AI smart contract audit.",
+    "image": "/projects/quillshield.png",
+    "link": "https://shield.quillaudits.com/"
+  },
+  {
     "name": "QuillAudits - ERP Dashboard",
     "desc": "QuillAudits - ERP Dashboard to manage and automate operations",
     "image": "/projects/quillaudits-erp.png",
