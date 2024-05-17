@@ -1,5 +1,11 @@
 [
   {
+    "name": "JustaDEX - Your Ultimate DEX Aggregator",
+    "desc": "Explore the best decentralized exchanges (DEXs) on the Mode blockchain with JustaDEX.",
+    "image": "/projects/justadex.png",
+    "link": "https://www.justadex.xyz/"
+  },
+  {
     "name": "QuillShield - AI Smart Contract Audit",
     "desc": "Enhance your Ethereum operations with our AI smart contract audit.",
     "image": "/projects/quillshield.png",
