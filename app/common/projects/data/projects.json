@@ -1,5 +1,17 @@
 [
   {
+    "name": "ZeroWallet - Unlock the Omni-Chain Future",
+    "desc": "ZeroWallet, powered by LayerZero, simplifies multi-chain management.",
+    "image": "/projects/zerowallet.png",
+    "link": "https://wallet.usezero.xyz/"
+  },
+  {
+    "name": "Kizuna Finance - Decentralized bridge",
+    "desc": "Kizuna Finance is a DeFi platform that connects Ethereum and Taiko",
+    "image": "/projects/kizuna.png",
+    "link": "https://alpha.kizuna.fi/"
+  },
+  {
     "name": "JustaDEX - Your Ultimate DEX Aggregator",
     "desc": "Explore the best decentralized exchanges (DEXs) on the Mode blockchain with JustaDEX.",
     "image": "/projects/justadex.png",
