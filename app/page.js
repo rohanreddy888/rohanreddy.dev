@@ -4,11 +4,11 @@ import Footer from "./common/footer/footer";
 import Project from "./common/projects/projects";
 
 export const metadata = {
-  title: "Rohan Reddy - Frontend Developer",
+  title: "Rohan Reddy - Senior Frontend Developer",
   description:
     "Experienced frontend dev and UI/UX designer. Built 50+ websites, skilled in React, Next.js, TailwindCSS and Web3. Active in open-source, always learning.",
   openGraph: {
-    title: "Rohan Reddy - Frontend Developer",
+    title: "Rohan Reddy - Senior Frontend Developer",
     url: "https://www.rohanreddy.dev/",
     description:
       "Experienced frontend dev and UI/UX designer. Built 50+ websites, skilled in React, Next.js, TailwindCSS and Web3. Active in open-source, always learning.",
@@ -16,7 +16,7 @@ export const metadata = {
       {
         url: "https://www.rohanreddy.dev/og-image.png",
         secureUrl: "https://www.rohanreddy.dev/og-image.png",
-        alt: "Rohan Reddy - Frontend Developer",
+        alt: "Rohan Reddy - Senior Frontend Developer",
         width: 1200,
         height: 630,
         type: "image/png",
@@ -30,7 +30,7 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Rohan Reddy - Frontend Developer",
+    title: "Rohan Reddy - Senior Frontend Developer",
     description:
       "Experienced frontend dev and UI/UX designer. Built 50+ websites, skilled in React, Next.js, TailwindCSS and Web3. Active in open-source, always learning.",
     creator: "@rohanreddy888",
