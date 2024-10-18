@@ -6,9 +6,14 @@ export default function Project() {
     <>
       <div className="flex flex-col items-start justify-start w-full md:flex-row md:items-center">
         <div className="flex flex-col items-start justify-start w-full gap-4">
-          <h2 className="text-4xl font-black">Recent Projects</h2>
+          <h2 className="flex flex-row items-center justify-start gap-2 text-4xl font-black">
+            Recent Projects{" "}
+            <div className="flex items-center justify-center w-12 h-12 text-white bg-black rounded-full p-1.5 text-2xl pt-2.5">
+              {Projects.length}
+            </div>
+          </h2>
 
-          <div className="grid w-full grid-cols-1 gap-8 md:grid-cols-2">
+          <div className="grid w-full grid-cols-1 gap-8 md:grid-cols-2 xl:grid-cols-3">
             {Projects.map((project, index) => {
               return (
                 <Link
@@ -16,11 +21,11 @@ export default function Project() {
                   target="_blank"
                   rel="noreferrer"
                   key={index}
-                  className="bg-white rounded-lg shadow-lg "
+                  className="bg-white rounded-lg shadow-lg hover:underline"
                 >
                   <div>
                     <img
-                      className="w-full h-48 rounded-lg md:h-80"
+                      className="w-full rounded-t-lg aspect-video"
                       src={project.image}
                       alt={project.name}
                       height="600"
