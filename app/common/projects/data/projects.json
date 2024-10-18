@@ -1,5 +1,11 @@
 [
   {
+    "name": "Brewit - Brewing Your Crypto Journey",
+    "desc": "Brewit a smart wallet with super powers to manage your crypto assets.",
+    "image": "/projects/brewit.png",
+    "link": "https://brewit.money/"
+  },
+  {
     "name": "ZeroWallet - Unlock the Omni-Chain Future",
     "desc": "ZeroWallet, powered by LayerZero, simplifies multi-chain management.",
     "image": "/projects/zerowallet.png",
