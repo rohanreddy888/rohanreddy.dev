@@ -8,7 +8,7 @@ export default function RootLayout({ children }) {
     <html lang="en" className={josefin.className}>
       <body className="background">
         <Navbar />
-        <div className="px-8 md:px-20">{children}</div>
+        <div className="px-6 md:px-20">{children}</div>
       </body>
     </html>
   );
