@@ -24,7 +24,7 @@ export default function About() {
             </p>
 
             <div className="hidden md:block">
-              <Tweet id="1736105550579147184" />
+              <Tweet id="1866101569575694841" />
             </div>
             <h2 className="mt-12 text-4xl font-black">Strong Suits 💪 </h2>
             <ul className="flex flex-col mt-4 space-y-2 text-xl list-disc list-inside md:mt-2">
@@ -32,6 +32,7 @@ export default function About() {
               <li>Self-driven</li>
               <li>Quick learner</li>
               <li>Team player</li>
+              <li>Design</li>
             </ul>
             <h2 className="mt-12 text-4xl font-black">Tech Stack 💻</h2>
             <ul className="flex flex-col mt-4 space-y-2 text-xl list-disc list-inside md:mt-2">
@@ -41,9 +42,11 @@ export default function About() {
             </ul>
             <h2 className="mt-12 text-4xl font-black">Achievements 🏆</h2>
             <ul className="flex flex-col mt-4 space-y-2 text-xl list-disc list-inside md:mt-2">
-              <li>ETHIndia'22 - LiFi Track 🥉</li>
-              <li>NEO APAC Hackathon Bangalore Edition 23 - Winner 🥇</li>
+              <li>ETHIndia'24 - Top 10 & Binance Smart Chain Track 🥇</li>
+              <li>ETHBangkok'24 - Biconomy Track 🥇</li>
               <li>ETHIndia'23 - Polygon DeFI & The Graph Track 🥈</li>
+              <li>NEO APAC Hackathon Bangalore Edition 23 - Winner 🥇</li>
+              <li>ETHIndia'22 - LiFi Track 🥉</li>
             </ul>
 
             <Github />
